@@ -80,27 +80,20 @@ Filler episodes account for ~7.5% of total episodes — lower than most long-run
 Paramecia is the most common Devil Fruit type among major characters
 Luffy's bounty grew from 30M to 3B berries — a 100x increase reflecting his journey
 Straw Hat Pirates have the highest combined crew bounty among active crews
-##Dashboard Pages
-## 📸 Dashboard Screenshots
+##Dashboard Pages.
 
-### Page 1 — World Overview
+End-to-end analytics dashboard built using Power BI, Excel, and data modeling.
 
+## Dashboard Screenshots
 
-![Page1](Dashboard page 1.png)
+### World Overview Dashboard
+![World Overview](dashboard-page%201.png)
 
+### Character & Power Analysis
+![Character & Power Analysis](dashboard-page2.png)
 
-
-### Page 2 — Character & Power Analysis
-
-
-![Page2](Dashboard page 2.png)
-
-
-
-### Page 3 — Faction & Battle Intelligence
-
-
-![Page3](Dashboard page 3.png)
+### Faction & Battle Intelligence
+![Faction & Battle Intelligence](dashboard-page%203.png)
 
 👤 About
 This project was built as part of a Data Analytics Portfolio to demonstrate end-to-end analytical skills — from data design to visualization — targeting Data Analyst roles.
